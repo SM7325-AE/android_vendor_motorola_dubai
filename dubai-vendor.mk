@@ -465,7 +465,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/dubai/proprietary/vendor/etc/thermal-engine-dubai-dhrystone.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-dubai-dhrystone.conf \
     vendor/motorola/dubai/proprietary/vendor/etc/thermal-engine-dubai-game-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-dubai-game-normal.conf \
     vendor/motorola/dubai/proprietary/vendor/etc/thermal-engine-dubai-game-perf.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-dubai-game-perf.conf \
-    vendor/motorola/dubai/proprietary/vendor/etc/thermal-engine-dubai.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-dubai.conf \
     vendor/motorola/dubai/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/dubai/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
     vendor/motorola/dubai/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
